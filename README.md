@@ -17,6 +17,6 @@
 - 整体从Java转为kotlin编写
 - 舍弃findViewById，使用viewBinding
 - 使用Yuki Hook Api
-- 应用图标懒加载存储
+- ~~应用图标懒加载存储~~
 - 适配高版本配置存储(可能吧)
 - 修复部分之前的bug
