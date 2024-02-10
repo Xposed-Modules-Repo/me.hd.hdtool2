@@ -3,8 +3,8 @@
 <h1>HdTool2</h1>
 
 [![Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/me.hd.hdtool2?label=stars)](https://github.com/Xposed-Modules-Repo/me.hd.hdtool2)
-[![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/me.hd.hdtool2?include_prereleases)](https://github.com/Xposed-Modules-Repo/me.hd.hdtool2/releases/latest)
 [![Download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/me.hd.hdtool2/total)](https://github.com/Xposed-Modules-Repo/me.hd.hdtool2/releases)
+[![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/me.hd.hdtool2)](https://github.com/Xposed-Modules-Repo/me.hd.hdtool2/releases/latest)
 
 </div>
 
