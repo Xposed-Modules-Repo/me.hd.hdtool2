@@ -2,8 +2,13 @@
 
 <h1>HdTool2</h1>
 
-[![Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/me.hd.hdtool2?label=stars)](https://github.com/Xposed-Modules-Repo/me.hd.hdtool2)
-[![Download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/me.hd.hdtool2/total)](https://github.com/Xposed-Modules-Repo/me.hd.hdtool2/releases)
+<div align="center">
+
+  [![Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/me.hd.hdtool2?label=stars)](https://github.com/Xposed-Modules-Repo/me.hd.hdtool2)
+  [![LSP%20Repo](https://img.shields.io/github/downloads/Xposed-Modules-Repo/me.hd.hdtool2/total?label=LSP%20Repo&labelColor=F48FB1)](https://github.com/Xposed-Modules-Repo/me.hd.hdtool2/releases)
+
+</div>
+
 [![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/me.hd.hdtool2)](https://github.com/Xposed-Modules-Repo/me.hd.hdtool2/releases/latest)
 
 </div>
@@ -11,7 +16,7 @@
 ---
 ### 使用:
 
-- 1.在Lsposed中启用HdTool2模块，并设置模块作用域
+- 1.在LSPosed中启用HdTool2模块，并设置模块作用域
 - 2.在HdTool2中点击应用列表，启用需要的Hook功能
 
 ---
