@@ -2,6 +2,8 @@
 
 <h1>HdTool2</h1>
 
+> **Hook Tool v2 By HdShare**
+
 <div align="center">
 
   [![Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/me.hd.hdtool2?label=stars)](https://github.com/Xposed-Modules-Repo/me.hd.hdtool2)
@@ -15,40 +17,88 @@
 </div>
 
 ---
-### 使用:
+## 使用:
 
 - 1.在LSPosed中启用HdTool2模块，并设置模块作用域
 - 2.在HdTool2中点击应用列表，启用需要的Hook功能
 
 ---
-### 功能（开发中）:
+## 功能:
 
-- **应用** ： Xposed / Root / Magisk 等
-- **网络** ： Vpn / Wifi Proxy 等
-- **版本** ： VersionCode / VersionName 等
-- **弹窗** ： Toast / Dialog / PopupWindow 等
-- **事件** ： OnClick / OnLongClick / setText / Exit 等
-- **算法** ： Base64 / AES / DES / RSA / MD5 / SHA / Hmac 等
-- **JSON** : Object / Array 等
-- **组件** ： Application / Activity / Service 等
-- **文件** ： Read / Write / Delete / Assets 等
-- **数据库** ： Open / Add / Delete / Update / Select 等
-- **媒体** ： Image / Video / Voice 等
-- **广告** ： 穿山甲 / 优量汇 / 米盟 等
-- **其他** ： Shell / Signatures / Screen / ACE 等
-- **专项** ： CloudInject / Arm Pro / 小纸片 / Andlua+ / GameGuardian 等
+- [ ] **应用**
+    - [ ] Xposed
+    - [ ] Root
+    - [ ] Magisk
+- [x] **网络**
+    - [x] Vpn
+    - [x] Wifi Proxy
+- [ ] **版本**
+    - [ ] VersionCode
+    - [ ] VersionName
+- [ ] **弹窗**
+    - [ ] Toast
+    - [ ] Dialog
+    - [ ] PopupWindow
+- [ ] **事件**
+    - [ ] OnClick
+    - [ ] OnLongClick
+    - [ ] setText
+    - [ ] Exit
+- [ ] **算法**
+    - [ ] Base64
+    - [ ] AES
+    - [ ] DES
+    - [ ] RSA
+    - [ ] MD5
+    - [ ] SHA
+    - [ ] Hmac
+- [ ] **JSON**
+    - [ ] Object
+    - [ ] Array
+- [ ] **组件**
+    - [ ] Application
+    - [ ] Activity
+    - [ ] Service
+- [ ] **文件**
+    - [ ] Read
+    - [ ] Write
+    - [ ] Delete
+    - [ ] Assets
+- [ ] **数据库**
+    - [ ] Open
+    - [ ] Add
+    - [ ] Delete
+    - [ ] Update
+    - [ ] Select
+- [ ] **媒体**
+    - [ ] Image
+    - [ ] Video
+    - [ ] Voice
+- [ ] **广告**
+    - [ ] 穿山甲
+    - [ ] 优量汇
+    - [ ] 米盟
+- [ ] **其他**
+    - [ ] Shell
+    - [ ] Signatures
+    - [x] Screen
+    - [ ] ACE
+- [ ] **专项**
+    - [ ] CloudInject
+    - [ ] Arm Pro
+    - [ ] 小纸片
+    - [ ] Andlua+
+    - [ ] GameGuardian
 
 ---
-### 计划:
+## 旧版:
 
-- 整体从Java转为kotlin编写
-- 舍弃findViewById，使用viewBinding
-- 使用Yuki Hook Api
-- ~~应用图标懒加载存储~~
-- 适配高版本配置存储(可能吧)
-- 修复部分之前的bug
+- [HdTool](https://gitee.com/hd_share/HdTool)
 
 ---
-### 旧版:
+## 致谢:
 
-- (https://gitee.com/hd_share/HdTool)
+- [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI)
+
+
+
