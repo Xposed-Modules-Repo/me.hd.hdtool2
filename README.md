@@ -98,7 +98,23 @@
 ---
 ## 致谢:
 
-- [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI)
+|    Name    |                               Source                               |
+|:----------:|:------------------------------------------------------------------:|
+| YukiHookAPI | [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI) |
+| 对话框取消 | [对话框取消]() |
+| SimpleHook | [SimpleHook](https://github.com/littleWhiteDuck/SimpleHook) |
+| 算法助手 | [算法助手]() |
+
+
+
+
+
+
+
+
+
+
+
 
 
 
