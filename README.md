@@ -25,70 +25,72 @@
 ---
 ## 功能:
 
-- [ ] **应用**
-    - [ ] Xposed
-    - [ ] Root
-    - [ ] Magisk
-- [x] **网络**
-    - [x] Vpn
-    - [x] Wifi Proxy
-- [ ] **版本**
-    - [ ] VersionCode
-    - [ ] VersionName
-- [ ] **弹窗**
-    - [ ] Toast
-    - [ ] Dialog
-    - [ ] PopupWindow
-- [ ] **事件**
-    - [ ] OnClick
-    - [ ] OnLongClick
-    - [ ] setText
-    - [ ] Exit
-- [ ] **算法**
-    - [ ] Base64
-    - [ ] AES
-    - [ ] DES
-    - [ ] RSA
-    - [ ] MD5
-    - [ ] SHA
-    - [ ] Hmac
-- [ ] **JSON**
-    - [ ] Object
-    - [ ] Array
-- [ ] **组件**
-    - [ ] Application
-    - [ ] Activity
-    - [ ] Service
-- [ ] **文件**
-    - [ ] Read
-    - [ ] Write
-    - [ ] Delete
-    - [ ] Assets
-- [ ] **数据库**
-    - [ ] Open
-    - [ ] Add
-    - [ ] Delete
-    - [ ] Update
-    - [ ] Select
-- [ ] **媒体**
-    - [ ] Image
-    - [ ] Video
-    - [ ] Voice
-- [ ] **广告**
-    - [ ] 穿山甲
-    - [ ] 优量汇
-    - [ ] 米盟
-- [ ] **其他**
-    - [ ] Shell
-    - [ ] Signatures
-    - [x] Screen
-    - [ ] ACE
-- [ ] **专项**
-    - [ ] CloudInject
-    - [ ] Arm Pro
-    - [ ] 小纸片
-    - [ ] Andlua+
-    - [ ] GameGuardian
+|          Name          |     Status     |
+| ---------------------- | -------------- |
+| 🔻 应用 |  |
+| Xposed | ❌Developed |
+| Root | ❌Developed |
+| Magisk | ❌Developed |
+| 🔻 网络 |  |
+| Vpn | ✅Completed |
+| Wifi Proxy | ✅Completed |
+| 🔻 版本 |  |
+| VersionCode | ❌Developed |
+| VersionName | ❌Developed |
+| 🔻 弹窗 |  |
+| Toast | ❌Developed |
+| Dialog | ❌Developed |
+| PopupWindow | ❌Developed |
+| 🔻 事件 |  |
+| OnClick | ❌Developed |
+| OnLongClick | ❌Developed |
+| setText | ❌Developed |
+| Exit | ❌Developed |
+| 🔻 算法 |  |
+| Base64 | ❌Developed |
+| AES | ❌Developed |
+| DES | ❌Developed |
+| RSA | ❌Developed |
+| MD5 | ❌Developed |
+| SHA | ❌Developed |
+| Hmac | ❌Developed |
+| 🔻 JSON |  |
+| Object | ❌Developed |
+| Array | ❌Developed |
+| 🔻 组件 |  |
+| Application | ❌Developed |
+| Activity | ❌Developed |
+| Service | ❌Developed |
+| 🔻 文件 |  |
+| Read | ❌Developed |
+| Write | ❌Developed |
+| Delete | ❌Developed |
+| Assets | ❌Developed |
+| 🔻 数据库 |  |
+| Open | ❌Developed |
+| Add | ❌Developed |
+| Delete | ❌Developed |
+| Update | ❌Developed |
+| Select | ❌Developed |
+| 🔻 媒体 |  |
+| Image | ❌Developed |
+| Video | ❌Developed |
+| Voice | ❌Developed |
+| 🔻 广告 |  |
+| 穿山甲 | ❌Developed |
+| 优量汇 | ❌Developed |
+| 米盟 | ❌Developed |
+| 其他 |  |
+| Shell | ❌Developed |
+| Signatures | ❌Developed |
+| Screen | ✅Completed |
+| ACE | ❌Developed |
+| 🔻 专项 |  |
+| CloudInject | ❌Developed |
+| Arm Pro | ❌Developed |
+| 小纸片 | ❌Developed |
+| Andlua+ | ❌Developed |
+| GameGuardian | ❌Developed |
 
 ---
 ## 旧版:
@@ -98,23 +100,10 @@
 ---
 ## 致谢:
 
-|    Name    |                               Source                               |
-|:----------:|:------------------------------------------------------------------:|
-| YukiHookAPI | [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI) |
-| 对话框取消 | [对话框取消]() |
-| SimpleHook | [SimpleHook](https://github.com/littleWhiteDuck/SimpleHook) |
-| 算法助手 | [算法助手]() |
-
-
-
-
-
-
-
-
-
-
-
-
-
+|     Name     |                               Source                               |
+| ------------ | ------------------------------------------------------------------ |
+| YukiHookAPI  | [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI)          |
+| 对话框取消    | [对话框取消]()                                                      |
+| SimpleHook   | [SimpleHook](https://github.com/littleWhiteDuck/SimpleHook)        |
+| 算法助手      | [算法助手]()                                                       |
 
