@@ -8,7 +8,6 @@
 
   [![Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/me.hd.hdtool2?label=stars)](https://github.com/Xposed-Modules-Repo/me.hd.hdtool2)
   [![LSP%20Repo](https://img.shields.io/github/downloads/Xposed-Modules-Repo/me.hd.hdtool2/total?label=LSP%20Repo&labelColor=F48FB1)](https://github.com/Xposed-Modules-Repo/me.hd.hdtool2/releases)
-  [![QQ%20Group](https://img.shields.io/badge/QQ%20Group-443170023-00c5ff)](https://qm.qq.com/cgi-bin/qm/qr?authKey=7SGJ2wIFk0cT3A2Drh0w6T0lS6AZcHxSXSv85yIZ0kd%2Fkok5ovEhFDJRY5BTxt6Q&k=ss0L_KrL8MNuaIfGnBhBTt5nuM7mpN0d&noverify=0)
 
 </div>
 
